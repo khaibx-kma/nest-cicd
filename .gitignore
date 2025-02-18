@@ -40,4 +40,4 @@ lerna-debug.log*
 .env.production
 
 public/*
-package-lock.json
+#package-lock.json
